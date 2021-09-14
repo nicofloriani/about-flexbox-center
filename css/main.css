@@ -13,7 +13,6 @@
 html {
     color: #222;
     font-size: 1em;
-    height: 100%;
     line-height: 1.4;
 }
 
@@ -100,6 +99,7 @@ textarea {
 html {
     background: url(../img/bkgd2.jpg) no-repeat center center fixed;
     background-size: cover;
+    height: 100%;
    /* set height to 100% - these are important for allowing content to vertically align */
 }
 
